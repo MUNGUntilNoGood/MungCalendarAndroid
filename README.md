@@ -1,2 +1,0 @@
-# MungCalendarAndroid
-# MungCalendarAndroid
