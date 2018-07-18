@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "76304399769",
+    "firebase_url": "https://mungcalenderandroid.firebaseio.com",
+    "project_id": "mungcalenderandroid",
+    "storage_bucket": "mungcalenderandroid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76304399769:android:9b537403cc3f9ff9",
+        "android_client_info": {
+          "package_name": "com.example.user.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "76304399769-5t18asiqg30474bavat653osj0dkh2nd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user.myapplication",
+            "certificate_hash": "955e2bcfa376062998e17012ce6accb4fc3438ed"
+          }
+        },
+        {
+          "client_id": "76304399769-ndokgfbgmdiv0s0vfe2kn8tbcfom5pgj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkIQsizrfwmNaQv1xC9JBR9m8RiWypNCE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "76304399769-ndokgfbgmdiv0s0vfe2kn8tbcfom5pgj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
